@@ -5,8 +5,6 @@
  * Date: 10/03/2016
  * Time: 16:36
  */
-
-
 function createHTMLtable($nbLignes,$nbCols)
 
 <!doctype html>
