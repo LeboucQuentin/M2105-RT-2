@@ -4,7 +4,7 @@ include './functions.php';
 getHeader(true,"Exercice 1");
 ?>
     <div class="container">
-        <form class="form-inline" method="post" action="functions.php">
+        <form class="form-inline" method="post" action="ex2.php">
                 <fieldset>
                         <legend>Connexion</legend>
                         <div class="alert alert-info">Saisir votre nom et valider.</div>
